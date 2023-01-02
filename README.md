@@ -1,0 +1,1 @@
+Hamekare is a website that provides different basic things, Such as a calculator, a To-Do list app and etc.
